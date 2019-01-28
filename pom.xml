@@ -44,6 +44,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:uwdivad/sfg-pet-clinic.git</developerConnection>
-      <tag>0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 </project>
